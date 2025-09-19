@@ -90,8 +90,8 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
     ```
     
 # Collaborators of this project:
-Dizzy Englmaier
-Chavely Albert Fernandez
+Dizzy Englmaier\
+Chavely Albert Fernandez\
 
 # Contents of the repository
 * Database in data/eda.csv
