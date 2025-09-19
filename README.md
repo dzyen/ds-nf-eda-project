@@ -1,6 +1,6 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
 # EDA Project (September 2025)
-As part of the Data Science Bootcamp at neue fische.
+As part of the Data Science Bootcamp at neue fische.\
 This project focuses on Exploratory Data Analysis using a King County housing database, containing information about property and home sales in King County (USA). 
 
 
@@ -19,9 +19,9 @@ Role: Buyer\
 Characteristics:\
 Unlimited budget.
 Wants either:\
-– Big lot (tennis court, pool), 4+ bathrooms, golf, historic.\
-– Or smaller house nearby.
-No waterfront.
+– Big lot (tennis court, pool), 4+ bathrooms, golf, historic, no waterfront.\
+– Or a smaller house nearby.
+
 
 
 # Requirements
@@ -94,7 +94,6 @@ Dizzy Englmaier\
 Chavely Albert Fernandez
 
 # Contents of the repository
-* Database in data/eda.csv
 * EDA.ipynb Notebook containing the created code to perform the tasks
 * Image folder with images created as part of the project
 * requirements.txt file with a list of all the packages and dependencies you will need.
